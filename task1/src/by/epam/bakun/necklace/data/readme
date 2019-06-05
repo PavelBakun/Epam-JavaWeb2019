@@ -1,0 +1,4 @@
+files "neklace_.txt" had next form:
+first row, for example, naturalStone: TypeOfStone weight cost transparency MagicProperty MagicForce
+second row, for example, artificalStone: TypeOfStone weight cost transparency countryProduction yearProduction
+etc...
